@@ -1,0 +1,40 @@
+name: catch_the_star
+description: A new Flutter Game project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  shared_preferences: 2.0.16
+  cupertino_icons: ^1.0.2
+  audioplayers: ^0.20.1
+  intl: 0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/sounds/
+  fonts:
+    - family: senobi_bold
+      fonts:
+       - asset: fonts/Senobi-Gothic-Bold.ttf
+    - family: senobi_medium
+      fonts:
+       - asset: fonts/Senobi-Gothic-Medium.ttf
+    - family: senobi_regular
+      fonts:
+       - asset: fonts/Senobi-Gothic-Regular.ttf
+  uses-material-design: true
