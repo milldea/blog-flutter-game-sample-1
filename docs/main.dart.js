@@ -27209,7 +27209,7 @@ a.bg(0,-s,-r)
 a.hm(c,new A.U(0,0,q,p),e,f)
 a.b7(0)}}
 A.ym.prototype={
-K(a){return new A.pu(B.BQ,"Flutter Demo",A.a5u(null,"senobi_regular",B.dW,null),null)}}
+K(a){return new A.pu(B.BQ,"Flutter Demo",A.a5u(null,"mushin",B.dW,null),null)}}
 A.pF.prototype={
 ar(){return new A.DJ(A.a4H("#,###"),A.a3c(),B.l)}}
 A.DJ.prototype={
