@@ -28,13 +28,7 @@ flutter:
     - assets/images/
     - assets/sounds/
   fonts:
-    - family: senobi_bold
+    - family: mushin
       fonts:
-       - asset: fonts/Senobi-Gothic-Bold.ttf
-    - family: senobi_medium
-      fonts:
-       - asset: fonts/Senobi-Gothic-Medium.ttf
-    - family: senobi_regular
-      fonts:
-       - asset: fonts/Senobi-Gothic-Regular.ttf
+       - asset: fonts/mushin.otf
   uses-material-design: true
